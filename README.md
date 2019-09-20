@@ -37,6 +37,7 @@
 - Update model: `python model-update/ureid_update.py` (to add the constrain of cross-cam., use the function `_clusteringGlobal_v2()` in the line 733 of ureid_update.py).
 
 ## Results (without cross-cam.)
+
 | Dataset | mAP | R1 | R5 | R10|
 | :------: | :------: | :------: | :------: | :------: | :------: |
 | Duke2Market | 54.2 | 78.7 | 87.0 | 90.7 |

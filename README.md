@@ -19,6 +19,8 @@
 (The requirements are similar with the project of [beyond-part-models](https://github.com/huanghoujing/beyond-part-models). And we recommend to prepare the environment using Anocanda.)
 
 ## Framework
+![Figure for the framework](https://github.com/dli2016/cross_domain_uReID/blob/master/uReID-framework.png)
+Figure. An overview of the propsed framework.
 
 ## Train
 

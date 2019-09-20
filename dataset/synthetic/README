@@ -1,0 +1,7 @@
+1. Please locate the translated images using SPGAN to this folder.
+2. Then, please rename the images that in the folder of bounding_box_train with rename.py.
+   e.g., python rename.py folder_name flag. The input of flag is about the dateset, 1 - duke, and 2 - market.
+3. Compress the data in zip format.
+
+Note:
+The data here will be updated iteratively, so if you want to fine-tune a new inital model please put the original data here. (You may backup the orignal data or just follow the above steps to re-genertate.)

@@ -20,7 +20,7 @@
 
 ## Framework
 ![Figure for the framework](https://github.com/dli2016/cross_domain_uReID/blob/master/uReID-framework.png)
-Figure. An overview of the propsed framework.
+Figure. An overview of the proposed framework.
 
 ## Train
 
